@@ -1,10 +1,10 @@
-# My SDK
+# Trustauthx-ts
 
-My SDK is a JavaScript/TypeScript library for interacting with the TrustAuthX API.
+Trustauthx-ts is a JavaScript/TypeScript library for interacting with the TrustAuthX API.
 
 ## Installation
 
-You can install My SDK using npm:
+You can install Trustauthx-ts using npm:
 
 
 ## Usage
