@@ -9,10 +9,10 @@ You can install Trustauthx-ts using npm:
 
 ## Usage
 
-First, import the `AuthLiteClient` class from the `my-sdk` package:
+First, import the `AuthLiteClient` class from the `Trustauthx-ts` package:
 
 ```javascript
-import { AuthLiteClient } from 'my-sdk';
+import { AuthLiteClient } from 'Trustauthx-ts';
 
 
 Next, create an instance of the AuthLiteClient class, passing in your API key, secret key, and organization ID:
